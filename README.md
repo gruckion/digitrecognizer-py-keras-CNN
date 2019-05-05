@@ -18,4 +18,6 @@ This repo follows the guide on [multi class classifier for Digit Recognition](ht
 - convolutional neural network
 - convolutional layers
 - pooling layers
+- pool size
 - dropout layers
+-
